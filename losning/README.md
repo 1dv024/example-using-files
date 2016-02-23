@@ -1,3 +1,3 @@
 # 12 flaskor whiskey ...
 
-...på fyra försök!
+... på fyra försök!
