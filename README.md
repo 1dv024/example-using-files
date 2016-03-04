@@ -2,7 +2,7 @@
 
 ...på fyra försök!
 
-Ett enkelt exempel på FIL-hantering i fyra versioner, som visar flera varianter av felhantering i sammanhanget.
+Ett enkelt exempel på FIL-hantering i fyra versioner, som visar flera varianter av FEL-hantering i sammanhanget.
 
 ## Läs
 
