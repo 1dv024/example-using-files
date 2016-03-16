@@ -1,8 +1,8 @@
-# 12 flaskor whiskey ...
+## Fyra lösningsvarianter:
 
 Följande är ett relativt "simpelt" exempel på FIL-hantering, som visar olika varianter utan och med felhantering. Oavsett hur det går med whiskeyn, så är "fjärde försöket" att föredra! :)
 
-## Fyra lösningsvarianter:
+___Program.cs___
 
 ```c#
 using System;
